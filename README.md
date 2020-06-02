@@ -1,6 +1,6 @@
 # MODEL 1 : 3 Layers with 1 Convolution layer
 ### 1. Model
-![1-1](https://user-images.githubusercontent.com/50062132/83540548-7569bb00-a533-11ea-90ac-bf25df2e6088.png)
+![1-1](https://user-images.githubusercontent.com/50062132/83542818-77814900-a536-11ea-977a-99b334f53477.png)
 
 ### 2. Training and Training loss
 ![1-2](https://user-images.githubusercontent.com/50062132/83542161-8fa49880-a535-11ea-8d91-3f9c5a152abc.png)
