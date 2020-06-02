@@ -1,2 +1,6 @@
-# Algorithm_04
-![1-1](https://user-images.githubusercontent.com/50062132/83540548-7569bb00-a533-11ea-90ac-bf25df2e6088.png)
+## MODEL 1
+#### 1. Model
+#### 2. Training and Training loss
+#### 3. Test Accuracy result
+#### 4. Images and corresponding probability that are predicted Right
+#### 5. Images and corresponding probability that are predicted Wrong
